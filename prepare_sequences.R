@@ -17,10 +17,13 @@ prepare_sequence <- function(seq) {
         from = start,
         to = end,
         replacement = replacement
-      )
+      ),
+      site = str_c(char, start)
     )
 
-  out <- modified |> pull(new_sequence) |> str_c(collapse = ", ")
+  out <- modified
+
+  out
 }
 
 
@@ -28,5 +31,6 @@ final_list <- layout |>
   select(ID, Sequence) |>
   filter(!is.na(Sequence), str_detect(ID, '^p', negate = TRUE)) |>
   mutate(modified = map(Sequence, ~ prepare_sequence(.x))) |>
-  separate_rows(modified, sep = ", ") |>
-  write_csv("results/input_sequences")
+  unnest(modified) |>
+  select(-start, -end, -char, -replacement) |>
+  write_csv("data/input_sequence_data.csv")
