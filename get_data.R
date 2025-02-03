@@ -1,19 +1,33 @@
 # Get Data from the site
 
-library(tidyverse)
-library(httr)
-library(jsonlite)
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(httr)
+  library(jsonlite)
+})
 
 template <-
-  "https://kinase-library.phosphosite.org/api/scorer/score-site/{modified}/Homo%20sapiens%20(Human)/OCHOA/true/false"
+  "https://kinase-library.phosphosite.org/api/scorer/score-site/{modified}/200/OCHOA/true/false/true"
 
-data <- read_csv("data/input_sequence_data.csv") |>
+stk_input_sequences <- read_csv(file.path("data", "stk_input_sequence_data.csv")) |>
+  mutate(chip = "STK")
+
+ptk_input_sequences <- read_csv(file.path("data", "ptk_input_sequence_data.csv")) |>
+  mutate(chip = "PTK")
+
+data <- stk_input_sequences |>
+  bind_rows(ptk_input_sequences) |>
   mutate(request = str_glue(template, modified = new_sequence))
 
-process_request <- function(peptide_id, sequence, site, url) {
-  output_file <- file.path("data",
-                           "individual",
-                           str_glue("{peptide_id}_{site}.csv"))
+process_request <- function(peptide_id, sequence, site, chip, url) {
+  output_file <- file.path(
+    "data",
+    "individual",
+    chip,
+    str_glue("{peptide_id}_{site}.csv")
+  )
+
+  dir.create(dirname(output_file), recursive = TRUE, showWarnings = FALSE)
 
   col_spec <- cols(
     .default = col_character(),
@@ -38,21 +52,24 @@ process_request <- function(peptide_id, sequence, site, url) {
       as_tibble() |>
       unnest(scores) |>
       unnest(motif) |>
-      mutate(peptide_id = peptide_id,
-             sequence = sequence) |>
+      mutate(
+        peptide_id = peptide_id,
+        sequence = sequence
+      ) |>
       select(-visibility) |>
       write_csv(output_file)
   } else {
     message(str_glue("Data for {peptide_id} for site {site} already downloaded"))
     data <-
       read_csv(output_file,
-               col_types = col_spec,
-               show_col_types = FALSE)
+        col_types = col_spec,
+        show_col_types = FALSE
+      )
   }
 }
 
 all_data <- data |>
-  pmap_dfr( ~ process_request(..1, ..2, ..4, ..5)) |>
+  pmap_dfr(~ process_request(..1, ..3, ..4, ..5, ..6)) |>
   write_csv("results/complete_kinase_specificity_raw.csv") |>
   select(
     peptide_id,
@@ -70,4 +87,4 @@ all_data <- data |>
     score_distribution_size = scoreDistributionSize,
     weak_activity = weakCatalyticActivity
   ) |>
-  write_csv("results/complete_stk_specificity_map.csv")
+  write_csv("results/complete_kinase_specificity_map.csv")
