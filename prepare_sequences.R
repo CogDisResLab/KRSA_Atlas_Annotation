@@ -14,7 +14,7 @@ encode_phosphoprimer_location <- function(sequence) {
   str_split(cleaned, "") |>
     map_chr(
       \(split_string) {
-        if_else(str_detect(split_string, "[a-z]"), "1", "0") |>
+        if_else(str_detect(rev(split_string), "[sty]"), "1", "0") |>
           str_c(collapse = "") |>
           strtoi(base = 2) |>
           as.character()
@@ -23,7 +23,7 @@ encode_phosphoprimer_location <- function(sequence) {
 }
 
 encode_phosphosite_location <- function(sequence) {
-  index <- str_locate(sequence, "[STY]\\*")[[1]]
+  index <- str_locate(sequence, "[STY]\\*")[, 1]
   residue <- str_sub(sequence, index, index)
   str_c(residue, index)
 }
@@ -84,11 +84,16 @@ mark_phosphosites <- function(seq, chip) {
 mark_phosphoprimers <- function(seq) {
   non_query_phosphosites <- str_locate_all(seq, "[STY](?!\\*)")[[1]][, 1]
 
-  primer_combinations <- map(
-    0:length(non_query_phosphosites),
-    ~ combn(non_query_phosphosites, .x, simplify = FALSE)
-  ) |>
-    unlist(recursive = FALSE)
+
+  if (length(non_query_phosphosites) == 1) {
+    primer_combinations <- c(integer(0), non_query_phosphosites)
+  } else {
+    primer_combinations <- map(
+      0:length(non_query_phosphosites),
+      ~ combn(non_query_phosphosites, .x, simplify = FALSE)
+    ) |>
+      unlist(recursive = FALSE)
+  }
 
   primer_variants <- map(
     primer_combinations,
