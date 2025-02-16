@@ -64,7 +64,7 @@ process_request <- function(peptide_id, sequence, chip, url) {
 all_data <- data |>
   select(ID, prepared_sequence, chip_type, request) |>
   pmap_dfr(~ process_request(..1, ..2, ..3, ..4)) |>
-  write_csv("results/complete_kinase_specificity_map_raw.csv") |>
+  write_csv("results/complete_kinase_specificity_map_raw.csv.gz") |>
   select(
     peptide_id,
     sequence,
@@ -81,4 +81,4 @@ all_data <- data |>
     score_distribution_size = scoreDistributionSize,
     weak_activity = weakCatalyticActivity
   ) |>
-  write_csv("results/complete_kinase_specificity_map.csv")
+  write_csv("results/complete_kinase_specificity_map.csv.gz")
