@@ -5,3 +5,4 @@
 *.log
 x-*.R
 !results/*.gz
+.vscode/
