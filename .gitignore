@@ -6,3 +6,4 @@
 x-*.R
 !results/*.gz
 .vscode/
+raw/all-array-layouts
