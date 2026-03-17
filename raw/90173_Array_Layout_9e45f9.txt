@@ -1,0 +1,189 @@
+Row	Col	ID	Sequence	ExtendedSequence	npTyr	SpotConc	UniprotAccession	SpotType	Co-solvent	Description	Xoff	Yoff
+-1	-1	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-3	-1	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-5	-1	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-3	-2	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-2	-20	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-4	-20	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-6	-20	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+-6	-19	#REF	NA	NA	NA	NA	NA	Ref. grid	NA	NA	0	0
+1	1	CD22_817_826_Y822nY	DEGIHYSELI	DEGIH(NO2-Y)SELI	[822]	500	P20273	Pos. control 	NA	NA	0	0
+1	2	ADA2A_421_431_Y426npY	LNPVIYTIFNH	LNPVI(NO2-pY)TIFNH	[426]	500	P08913	Substrate	NA	Alpha-2A adrenergic receptor	0	0
+1	3	AKT1_171_181_Y175npY	ATGRYYAMKIL	ATGR(NO2-pY)YAMKIL	[175]	500	P31749	Substrate	NA	RAC-alpha serine/threonine-protein kinase	0	0
+1	4	AKT1_171_181_Y176npY	ATGRYYAMKIL	ATGRY(NO2-pY)AMKIL	[176]	500	P31749	Substrate	NA	RAC-alpha serine/threonine-protein kinase	0	0
+1	5	AKT1_311_321_Y315npY	GTPEYLAPEVL	GTPE(NO2-pY)LAPEVL	[315]	500	P31749	Substrate	NA	RAC-alpha serine/threonine-protein kinase	0	0
+1	6	AKT1_321_331_Y326npY	LEDNDYGRAVD	LEDND(NO2-pY)GRAVD	[326]	500	P31749	Substrate	NA	RAC-alpha serine/threonine-protein kinase	0	0
+1	7	ALK_1073_1083_Y1078npY	LQSPEYKLSKL	LQSPE(NO2-pY)KLSKL	[1078]	500	Q9UM73	Substrate	NA	ALK tyrosine kinase receptor	0	0
+1	8	ARAF_297_307_Y301npY	RDSGYYWEVPP	RDSG(NO2-pY)YWEVPP	[301]	500	P10398	Substrate	NA	Serine/threonine-protein kinase A-Raf	0	0
+1	9	ARAF_297_307_Y302npY	RDSGYYWEVPP	RDSGY(NO2-pY)WEVPP	[302]	500	P10398	Substrate	NA	Serine/threonine-protein kinase A-Raf	0	0
+1	10	ART_003_Y4pY	EAIYAAPFAKKK	EAI(pY)AAPFAKKK	[]	500	NA	Neg. control	NA	NA	0	0
+1	11	BCR_172_183_Y177npY	AEKPFYVNVEFH	AEKPF(NO2-pY)VNVEFH	[177]	500	P11274	Substrate	NA	Breakpoint cluster region protein	0	0
+1	12	BTLA_252_262_Y257npY	KPGIVYASLNH	KPGIV(NO2-pY)ASLNH	[257]	500	Q7Z6A9	Substrate	NA	B- and T-lymphocyte attenuator	0	0
+1	13	BTLA_277_287_Y282npY_C286S	EAPTEYASISV	EAPTE(NO2-pY)ASISV	[282]	500	Q7Z6A9	Substrate	NA	B- and T-lymphocyte attenuator	0	0
+2	1	CADH2_780_789_Y785npY	EEDQDYDLSQ	EEDQD(NO2-pY)DLSQ	[785]	500	P19022	Substrate	NA	Cadherin-2	0	0
+2	2	CBL_695_704_Y700npY_M701B	EEDTEYBTPS	EEDTE(NO2-pY)BTPS	[700]	500	P22681	Substrate	NA	E3 ubiquitin-protein ligase CBL	0	0
+2	3	CD22_757_767_Y762npY	EDGISYTTLRF	EDGIS(NO2-pY)TTLRF	[762]	500	P20273	Substrate	NA	B-cell receptor CD22	0	0
+2	4	CD22_817_826_Y822npY	DEGIHYSELI	DEGIH(NO2-pY)SELI	[822]	500	P20273	Substrate	NA	B-cell receptor CD22	0	0
+2	5	CD28_186_196_Y191npY	LLHSDYMNMTP	LLHSD(NO2-pY)MNMTP	[191]	500	P10747	Substrate	NA	T-cell-specific surface glycoprotein CD28	0	0
+2	6	CD28_201_211_Y206npY	PTRKHYQPYAP	PTRKH(NO2-pY)QPYAP	[206]	500	P10747	Substrate	NA	T-cell-specific surface glycoprotein CD28	0	0
+2	7	CD28_210_220_Y218npY	APPRDFAAYRS	APPRDFAA(NO2-pY)RS	[218]	500	P10747	Substrate	NA	T-cell-specific surface glycoprotein CD28	0	0
+2	8	CD3Z_118_128_Y123npY	KMAEAYSEIGM	KMAEA(NO2-pY)SEIGM	[123]	500	P20963	Substrate	NA	T-cell surface glycoprotein CD3 zeta chain	0	0
+2	9	CD3Z_148_158_Y153npY	ATKDTYDALHM	ATKDT(NO2-pY)DALHM	[153]	500	P20963	Substrate	NA	T-cell surface glycoprotein CD3 zeta chain	0	0
+2	10	CD80_216_226_220npY_C216S	SLIKYGHLRVN	SLIK(NO2-pY)GHLRVN	[220]	500	P33681	Substrate	NA	T-lymphocyte activation antigen CD80	0	0
+2	11	CDK2_10_20_Y15npY	IGEGTYGVVYK	IGEGT(NO2-pY)GVVYK	[15]	500	P24941	Substrate	NA	Cyclin-dependent kinase	0	0
+2	12	CRK_216_226_Y221npY	PEPGPYAQPSV	PEPGP(NO2-pY)AQPSV	[221]	500	P46108	Substrate	NA	Adapter molecule crk	0	0
+2	13	CSK_179_188_Y184npY	AQDEFYRSGW	AQDEF(NO2-pY)RSGW	[184]	500	P41240	Substrate	NA	Tyrosine-protein kinase CSK	0	0
+3	1	CTLA4_196_206_Y201npY	LTTGVYVKMPP	LTTGV(NO2-pY)VKMPP	[201]	500	P16410	Substrate	NA	Cytotoxic T-lymphocyte protein	0	0
+3	2	CTLA4_213_223_Y218npY	KQFQPYFIPIN	KQFQP(NO2-pY)FIPIN	[218]	500	P16410	Substrate	NA	Cytotoxic T-lymphocyte protein	0	0
+3	3	CTNB1_81_91_Y86npY_M88B	DIDGQYABTRA	DIDGQ(NO2-pY)ABTRA	[86]	500	P35222	Substrate	NA	Catenin beta-1	0	0
+3	4	EGFR_1011_1021_Y1016npY	VDADEYLIPQQ	VDADE(NO2-pY)LIPQQ	[1016]	500	P00533	Substrate	NA	Epidermal growth factor receptor	0	0
+3	5	EGFR_1064_1074_Y1069npY	SFLQRYSSDPT	SFLQR(NO2-pY)SSDPT	[1069]	500	P00533	Substrate	NA	Epidermal growth factor receptor	0	0
+3	6	EGFR_1192_1202_Y1197npY	AENAEYLRVAP	AENAE(NO2-pY)LRVAP	[1197]	500	P00533	Substrate	NA	Epidermal growth factor receptor	0	0
+3	7	EPHB2_597_607_Y602npY	IDPFTYEDPNE	IDPFT(NO2-pY)EDPNE	[602]	500	P29323	Substrate	NA	Ephrin type-B receptor	0	0
+3	8	EPOR_419_429_Y426npY_A419K	KSAASFEYTIL	KSAASFE(NO2-pY)TIL	[426]	500	P19235	Substrate	NA	Erythropoietin receptor	0	0
+3	9	ERBB2_1216_1226_Y1221npY	AFDNLYYWDQD	AFDNL(NO2-pY)YWDQD	[1221]	500	P04626	Substrate	NA	Receptor tyrosine-protein kinase erbB-2	0	0
+3	10	ERBB2_1243_1253_Y1248npY	AENPEYLGLDV	AENPE(NO2-pY)LGLDV	[1248]	500	P04626	Substrate	NA	Receptor tyrosine-protein kinase erbB-2	0	0
+3	11	ESR1_532_542_Y537npY	NVVPLYDLLLE	NVVPL(NO2-pY)DLLLE	[537]	500	P03372	Substrate	NA	Estrogen receptor	0	0
+3	12	FAK1_572_581_Y576npY	EDSTYYKASK	EDST(NO2-pY)YKASK	[576]	500	Q05397	Substrate	NA	Focal adhesion kinase 	0	0
+3	13	FAK1_572_581_Y577npY	EDSTYYKASK	EDSTY(NO2-pY)KASK	[577]	500	Q05397	Substrate	NA	Focal adhesion kinase	0	0
+4	1	FAK2_575_585_Y580npY	EDEDYYKASVT	EDEDY(NO2-pY)KASVT	[580]	500	Q14289	Substrate	NA	Protein-tyrosine kinase 2-beta	0	0
+4	2	FRK_382_391_Y387npY	DNEDIYESRH	DNEDI(NO2-pY)ESRH	[387]	500	P42685	Substrate	NA	Tyrosine-protein kinase FRK	0	0
+4	3	PECA1_708_718_Y713nY	DTETVYSEVRK	DTETV(NO2-Y)SEVRK	[713]	500	P16284	Pos. control 	NA	NA	0	0
+4	4	FYB_554_564_Y559npY	TARGSYGYIKT	TARGS(NO2-pY)GYIKT	[559]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	5	FYB_590_600_Y595npY	DDQEVYDDVAE	DDQEV(NO2-pY)DDVAE	[595]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	6	FYB_646_656_Y651npY	MGDEVYDDVDT	MGDEV(NO2-pY)DDVDT	[651]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	7	FYB_750_760_Y755npY	NEEGKYGYVLR	NEEGK(NO2-pY)GYVLR	[755]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	8	FYB_766_776_Y771npY	NDGEIYDDIAD	NDGEI(NO2-pY)DDIAD	[771]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	9	FYB_773_783_Y780npY_C778S	DIADGSIYDND	DIADGSI(NO2-pY)DND	[780]	500	O15117	Substrate	NA	FYN-binding protein	0	0
+4	10	GAB1_584_594_Y589npY	DSEENYVPMNP	DSEEN(NO2-pY)VPMNP	[589]	500	Q13480	Substrate	NA	GRB2-associated-binding protein 	0	0
+4	11	GAB1_620_630_Y627npY	KGDKQVEYLDL	KGDKQVE(NO2-pY)LDL	[627]	500	Q13480	Substrate	NA	GRB2-associated-binding protein	0	0
+4	12	GAB1_655_666_Y659npY	ERVDYVVVDQQK	ERVD(NO2-pY)VVVDQQK	[659]	500	Q13480	Substrate	NA	GRB2-associated-binding protein	0	0
+4	13	GAB2_607_618_Y614npY	KSTGSVDYLALD	KSTGSVD(NO2-pY)LALD	[614]	500	Q9UQC2	Substrate	NA	GRB2-associated-binding protein 	0	0
+5	1	GAB2_638_648_Y643npY	DEKVDYVQVDK	DEKVD(NO2-pY)VQVDK	[643]	500	Q9UQC2	Substrate	NA	GRB2-associated-binding protein	0	0
+5	2	GHR_327_337_Y332npY	AIHDSYKPEFH	AIHDS(NO2-pY)KPEFH	[332]	500	P10912	Substrate	NA	Growth hormone receptor	0	0
+5	3	GHR_529_539_Y534npY_C536S	LMDNAYFSEAD	LMDNA(NO2-pY)FSEAD	[534]	500	P10912	Substrate	NA	Growth hormone receptor	0	0
+5	4	GHR_591_600_Y595npY	PVPDYTSIHI	PVPD(NO2-pY)TSIHI	[595]	500	P10912	Substrate	NA	Growth hormone receptor	0	0
+5	5	HAVR2_257_267_Y265npY_G257K	KIRSEENIYTI	KIRSEENI(NO2-pY)TI	[265]	500	Q8TDQ0	Substrate	NA	Hepatitis A virus cellular receptor	0	0
+5	6	HAVR2_264_274_Y272npY_I264K_Y265K	KKTIEENVYEV	KKTIEENV(NO2-pY)EV	[272]	500	Q8TDQ0	Substrate	NA	Hepatitis A virus cellular receptor	0	0
+5	7	HCST_79_91_Y86npY	AQEDGKVYINMP	AQEDGKV(NO2-pY)INMP	[86]	500	Q9UBK5	Substrate	NA	Hematopoietic cell signal transducer	0	0
+5	8	IKBA_37_47_Y42npY	MKDEEYEQMVK	MKDEE(NO2-pY)EQMVK	[42]	500	P25963	Substrate	NA	NF-kappa-B inhibitor alpha	0	0
+5	9	INSR_1184_1194_Y1189npY	IYETDYYRKGG	IYETD(NO2-pY)YRKGG	[1189]	500	P06213	Substrate	NA	Insulin receptor	0	0
+5	10	INSR_1185_1195_Y1190npY	YETDYYRKGGK	YETDY(NO2-pY)RKGGK	[1190]	500	P06213	Substrate	NA	Insulin receptor	0	0
+5	11	INSR_1350_1360_Y1355npY	GFKRSYEEHIP	GFKRS(NO2-pY)EEHIP	[1355]	500	P06213	Substrate	NA	Insulin receptor	0	0
+5	12	INSR_994_1004_Y999npY	SSNPEYLSASD	SSNPE(NO2-pY)LSASD	[999]	500	P06213	Substrate	NA	Insulin receptor	0	0
+5	13	IRS1_1175_1186_Y1179npY	NGLNYIDLDLVK	NGLN(NO2-pY)IDLDLVK	[1179]	500	P35568	Substrate	NA	Insulin receptor substrate	0	0
+6	1	IRS1_891_901_Y896npY	KSPGEYVNIEF	KSPGE(NO2-pY)VNIEF	[896]	500	P35568	Substrate	NA	Insulin receptor substrate	0	0
+6	2	JAK1_1029_1039_Y1034npY	ETDKEYYTVKD	ETDKE(NO2-pY)YTVKD	[1034]	500	P23458	Substrate	NA	Tyrosine-protein kinase JAK1	0	0
+6	3	JAK1_1030_1040_Y1035npY	TDKEYYTVKDD	TDKEY(NO2-pY)TVKDD	[1035]	500	P23458	Substrate	NA	Tyrosine-protein kinase JAK1	0	0
+6	4	JAK2_1002_1011_Y1007npY	PQDKEYYKVK	PQDKE(NO2-pY)YKVK	[1007]	500	O60674	Substrate	NA	Tyrosine-protein kinase JAK2	0	0
+6	5	JAK2_1003_1013_Y1008npY	QDKEYYKVKEP	QDKEY(NO2-pY)KVKEP	[1008]	500	O60674	Substrate	NA	Tyrosine-protein kinase JAK2	0	0
+6	6	KCNB2_127_137_Y132npY_C136A_C137S	GIDEIYLESAS	GIDEI(NO2-pY)LESAS	[132]	500	Q92953	Substrate	NA	Potassium voltage-gated channel subfamily B member	0	0
+6	7	KI2L3_328_338_Y333npY	TDIIVYTELPN	TDIIV(NO2-pY)TELPN	[333]	500	P43628	Substrate	NA	Killer cell immunoglobulin-like receptor 2DL3	0	0
+6	8	KI2L4_295_305_Y300npY	PQEVTYAQLDH	PQEVT(NO2-pY)AQLDH	[300]	500	Q99706	Substrate	NA	Killer cell immunoglobulin-like receptor 2DL4	0	0
+6	9	KPCT_540_550_Y545npY	CGTPDYIAPEI	CGTPD(NO2-pY)IAPEI	[545]	500	Q04759	Substrate	NA	Protein kinase C theta type	0	0
+6	10	KSYK_318_328_Y323npY	VSFNPYEPELA	VSFNP(NO2-pY)EPELA	[323]	500	P43405	Substrate	NA	Tyrosine-protein kinase SYK	0	0
+6	11	KSYK_347_357_Y352npY	VYESPYADPEE	VYESP(NO2-pY)ADPEE	[352]	500	P43405	Substrate	NA	Tyrosine-protein kinase SYK	0	0
+6	12	KSYK_520_530_Y525npY	RADENYYKAQT	RADEN(NO2-pY)YKAQT	[525]	500	P43405	Substrate	NA	Tyrosine-protein kinase SYK	0	0
+6	13	KSYK_521_531_Y526npY	ADENYYKAQTH	ADENY(NO2-pY)KAQTH	[526]	500	P43405	Substrate	NA	Tyrosine-protein kinase SYK	0	0
+7	1	LAG3_422_432_Y426npY	GAAVYFTELSS	GAAV(NO2-pY)FTELSS	[426]	500	P18627	Substrate	NA	Lymphocyte activation gene 3 protein	0	0
+7	2	LAT_195_205_Y200npY	ESIDDYVNVPE	ESIDD(NO2-pY)VNVPE	[200]	500	O43561	Substrate	NA	Linker for activation of T-cells family member	0	0
+7	3	LAT_250_260_Y255npY	EGAPDYENLQE	EGAPD(NO2-pY)ENLQE	[255]	500	O43561	Substrate	NA	Linker for activation of T-cells family member	0	0
+7	4	LCK_389_399_Y394npY	IEDNEYTAREG	IEDNE(NO2-pY)TAREG	[394]	500	P06239	Substrate	NA	Tyrosine-protein kinase Lck	0	0
+7	5	LCK_499_509_Y505npY	TATEGQYQPQP	TATEGQ(NO2-pY)QPQP	[505]	500	P06239	Substrate	NA	Tyrosine-protein kinase Lck	0	0
+7	6	LIRB1_528_538_Y533npY	QEENLYAAVKH	QEENL(NO2-pY)AAVKH	[533]	500	Q8NHL6	Substrate	NA	Leukocyte immunoglobulin-like receptor subfamily B member 	0	0
+7	7	LIRB1_557_567_Y562npY	PQAVTYAEVKH	PQAVT(NO2-pY)AEVKH	[562]	500	Q8NHL6	Substrate	NA	Leukocyte immunoglobulin-like receptor subfamily B member 	0	0
+7	8	LIRB1_637_649_Y644npY_S637K_I649K	KPVPSIYATLAK	KPVPSI(NO2-pY)ATLAK	[644]	500	Q8NHL6	Substrate	NA	Leukocyte immunoglobulin-like receptor subfamily B member 	0	0
+7	9	LIRB2_557_567_Y562npY	PQDVTYAQLHS	PQDVT(NO2-pY)AQLHS	[562]	500	Q8N423	Substrate	NA	Leukocyte immunoglobulin-like receptor subfamily B member 	0	0
+7	10	LYAM2_598_608_Y603npY	ESDGSYQKPSY	ESDGS(NO2-pY)QKPSY	[603]	500	P16581	Substrate	NA	E-selectin	0	0
+7	11	MBP_198_207_Y203npY	ARTAHYGSLP	ARTAH(NO2-pY)GSLP	[203]	500	P02686	Substrate	NA	Myelin basic protein	0	0
+7	12	MBP_263_272_Y268npY	GRASDYKSAH	GRASD(NO2-pY)KSAH	[268]	500	P02686	Substrate	NA	Myelin basic protein	0	0
+7	13	MET_1229_1239_Y1234npY	MYDKEYYSVHN	MYDKE(NO2-pY)YSVHN	[1234]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	1	MET_1230_1240_Y1235npY	YDKEYYSVHNK	YDKEY(NO2-pY)SVHNK	[1234]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	2	MET_1229_1239_Y1235npY_M1229B	BYDKEYYSVHN	BYDKEY(NO2-pY)SVHN	[1235]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	3	MET_1344_1354_Y1349npY	FIGEHYVHVNA	FIGEH(NO2-pY)VHVNA	[1349]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	4	MET_1351_1361_Y1356npY_C1361S	HVNATYVNVKS	HVNAT(NO2-pY)VNVKS	[1356]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	5	MET_1360_1370_Y1365npY_C1361S	KSVAPYPSLLS	KSVAP(NO2-pY)PSLLS	[1365]	500	P08581	Substrate	NA	Hepatocyte growth factor receptor	0	0
+8	6	MK01_182_191_Y187npY_G182F_F183G	FGLTEYVATR	FGLTE(NO2-pY)VATR	[187]	500	P28482	Substrate	NA	Mitogen-activated protein kinase	0	0
+8	7	MK01_200_209_Y205npY	LNSKGYTKSI	LNSKG(NO2-pY)TKSI	[205]	500	P28482	Substrate	NA	Mitogen-activated protein kinase	0	0
+8	8	MK03_199_208_Y204npY	GFLTEYVATR	GFLTE(NO2-pY)VATR	[204]	500	P27361	Substrate	NA	Mitogen-activated protein kinase	0	0
+8	9	MK07_215_225_Y221npY_Q215K	KYFMTEYVATR	KYFMTE(NO2-pY)VATR	[221]	500	Q13164	Substrate	NA	Mitogen-activated protein kinase 	0	0
+8	10	MK08_181_192_Y185npY_M181K_M182G	KGTPYVVTRYYR	KGTP(NO2-pY)VVTRYYR	[185]	500	P45983	Substrate	NA	Mitogen-activated protein kinase	0	0
+8	11	MK08_254_264_Y259npY	PTVRTYVENRP	PTVRT(NO2-pY)VENRP	[259]	500	P45983	Substrate	NA	Mitogen-activated protein kinase	0	0
+8	12	MK12_180_189_Y185npY_M182B	SEBTGYVVTR	SEBTG(NO2-pY)VVTR	[185]	500	P53778	Substrate	NA	Mitogen-activated protein kinase 12	0	0
+8	13	MK14_177_187_Y182npY	DEMTGYVATRW	DEMTG(NO2-pY)VATRW	[182]	500	Q16539	Substrate	NA	Mitogen-activated protein kinase 14	0	0
+9	1	MP2K1_295_305_Y300npY	RPLSSYGMDSR	RPLSS(NO2-pY)GMDSR	[300]	500	Q02750	Substrate	NA	Dual specificity mitogen-activated protein kinase kinase	0	0
+9	2	MPZL1_236_246_Y241npY	QGPVIYAQLDH	QGPVI(NO2-pY)AQLDH	[241]	500	O95297	Substrate	NA	Myelin protein zero-like protein	0	0
+9	3	MPZL1_258_268_Y263npY	SESVVYADIRK	SESVV(NO2-pY)ADIRK	[263]	500	O95297	Substrate	NA	Myelin protein zero-like protein	0	0
+9	4	NFAT5_138_148_Y143npY	RHTVLYISPPP	RHTVL(NO2-pY)ISPPP	[143]	500	O94916	Substrate	NA	Nuclear factor of activated T-cells	0	0
+9	5	NKG2A_2_12_Y8npY	DNQGVIYSDLN	DNQGVI(NO2-pY)SDLN	[8]	500	P26715	Substrate	NA	NKG2-A/NKG2-B type II integral membrane protein	0	0
+9	6	NKG2A_36_47_Y40npY	QEITYAELNLQK	QEIT(NO2-pY)AELNLQK	[40]	500	P26715	Substrate	NA	NKG2-A/NKG2-B type II integral membrane protein	0	0
+9	7	NTRK1_491_501_Y496npY_C501S	IENPQYFSDAS	IENPQ(NO2-pY)FSDAS	[496]	500	P04629	Substrate	NA	High affinity nerve growth factor receptor	0	0
+9	8	P85A_601_611_Y607npY_E601K	KNTEDQYSLVE	KNTEDQ(NO2-pY)SLVE	[607]	500	P27986	Substrate	NA	Phosphatidylinositol 3-kinase regulatory subunit alpha	0	0
+9	9	PAXI_113_123_Y118npY	EEEHVYSFPNK	EEEHV(NO2-pY)SFPNK	[118]	500	P49023	Substrate	NA	Paxillin	0	0
+9	10	PAXI_83_93_Y88npY	SSSPVYGSSAK	SSSPV(NO2-pY)GSSAK	[88]	500	P49023	Substrate	NA	Paxillin	0	0
+9	11	PDCD1_219_229_Y223npY_ F219K_S220K	KKVDYGELDFQ	KKVD(NO2-pY)GELDFQ	[223]	500	Q15116	Substrate	NA	Programmed cell death protein	0	0
+9	12	PDCD1_244_255_Y248npY_E244K	KQTEYATIVFPS	KQTE(NO2-pY)ATIVFPS	[248]	500	Q15116	Substrate	NA	Programmed cell death protein	0	0
+9	13	PDPK1_4_13_Y9npY	TTSQLYDAVP	TTSQL(NO2-pY)DAVP	[9]	500	O15530	Substrate	NA	3-phosphoinositide-dependent protein kinase	0	0
+10	1	PECA1_684_694_Y690npY_L684K	KNSDVQYTEVQ	KNSDVQ(NO2-pY)TEVQ	[690]	500	P16284	Substrate	NA	Platelet endothelial cell adhesion molecule	0	0
+10	2	PECA1_708_718_Y713npY	DTETVYSEVRK	DTETV(NO2-pY)SEVRK	[713]	500	P16284	Substrate	NA	Platelet endothelial cell adhesion molecule	0	0
+10	3	PGFRB_1016_1025_Y1021npY	EGDNDYIIPL	EGDND(NO2-pY)IIPL	[1021]	500	P09619	Substrate	NA	Platelet-derived growth factor receptor beta	0	0
+10	4	PGFRB_746_753_Y751npY_M754B	DESVDYVPBL	DESVD(NO2-pY)VPBL	[751]	500	P09619	Substrate	NA	Platelet-derived growth factor receptor beta	0	0
+10	5	PP2AB_299_309_Y307npY	HVTRRTPDYFL	HVTRRTPD(NO2-pY)FL	[307]	500	P62714	Substrate	NA	Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform	0	0
+10	6	PTEN_235_245_Y240npY	EDKFMYFEFPQ	EDKFM(NO2-pY)FEFPQ	[240]	500	P60484	Substrate	NA	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN	0	0
+10	7	PTEN_311_321_Y315npY	NDKEYLVLTLT	NDKE(NO2-pY)LVLTLT	[315]	500	P60484	Substrate	NA	Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN	0	0
+10	8	PTN1_147_157_Y152npY	EDIKSYYTVRQ	EDIKS(NO2-pY)YTVRQ	[152]	500	P18031	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+10	9	PTN1_148_158_Y153npY	DIKSYYTVRQL	DIKSY(NO2-pY)TVRQL	[153]	500	P18031	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+10	10	PTN1_62_73_Y66npY_E62K	KDNDYINASLIK	KDND(NO2-pY)INASLIK	[66]	500	P18031	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+10	11	PTN11_541_551_Y546npY	RKGHEYTNIKY	RKGHE(NO2-pY)TNIKY	[546]	500	Q06124	Substrate	NA	Tyrosine-protein phosphatase non-receptor type 11	0	0
+10	12	PTN11_57_67_Y62npY	QNTGDYYDLYG	QNTGD(NO2-pY)YDLYG	[62]	500	Q06124	Substrate	NA	Tyrosine-protein phosphatase non-receptor type 11	0	0
+10	13	PTN11_57_67_Y63npY	QNTGDYYDLYG	QNTGDY(NO2-pY)DLYG	[63]	500	Q06124	Substrate	NA	Tyrosine-protein phosphatase non-receptor type 11	0	0
+11	1	PTN11_580_590_Y584npY	SARVYENVGLM	SARV(NO2-pY)ENVGLM	[584]	500	Q06124	Substrate	NA	Tyrosine-protein phosphatase non-receptor type 11	0	0
+11	2	PTN6_371_381_Y377npY	QRAYGPYSVTN	QRAYGP(NO2-pY)SVTN	[377]	500	P29350	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+11	3	PTN6_531_541_Y536npY	GQESEYGNITY	GQESE(NO2-pY)GNITY	[536]	500	P29350	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+11	4	PTN6_559_569_Y564npY	HKEDVYENLHT	HKEDV(NO2-pY)ENLHT	[564]	500	P29350	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+11	5	PTN6_58_68_Y64npY_D59K	KDFYDLYGGEK	KDFYDL(NO2-pY)GGEK	[64]	500	P29350	Substrate	NA	Tyrosine-protein phosphatase non-receptor type	0	0
+11	6	PTPRA_793_802_Y798npY	DAFSDYANFK	DAFSD(NO2-pY)ANFK	[798]	500	P18433	Substrate	NA	Receptor-type tyrosine-protein phosphatase alpha	0	0
+11	7	RAF1_333_344_Y340npY	RGQRDSSYYWEI	RGQRDSS(NO2-pY)YWEI	[340]	500	P04049	Substrate	NA	RAF proto-oncogene serine/threonine-protein kinase	0	0
+11	8	RAF1_333_344_Y341npY	RGQRDSSYYWEI	RGQRDSSY(NO2-pY)WEI	[341]	500	P04049	Substrate	NA	RAF proto-oncogene serine/threonine-protein kinase	0	0
+11	9	RET_1024_1033_Y1029npY	SDSLIYDDGL	SDSLI(NO2-pY)DDGL	[1029]	500	P07949	Substrate	NA	Proto-oncogene tyrosine-protein kinase receptor Ret	0	0
+11	10	RET_682_691_Y687npY	AFPVSYSSSG	AFPVS(NO2-pY)SSSG	[687]	500	P07949	Substrate	NA	Proto-oncogene tyrosine-protein kinase receptor Ret	0	0
+11	11	RET_900_910_Y905npY	YEEDSYVKRSQ	YEEDS(NO2-pY)VKRSQ	[905]	500	P07949	Substrate	NA	Proto-oncogene tyrosine-protein kinase receptor Ret	0	0
+11	12	SLAF6_270_280_Y274npY	RNLEYVSVSPT	RNLE(NO2-pY)VSVSPT	[274]	500	Q96DU3	Substrate	NA	SLAM family member	0	0
+11	13	SLAF6_279_290_Y285npY_P279K_H290K	KTNNTVYASVTK	KTNNTV(NO2-pY)ASVTK	[285]	500	Q96DU3	Substrate	NA	SLAM family member	0	0
+12	1	SLAF6_304_317_Y309npY	DTITIYSTINHSKE	DTITI(NO2-pY)STINHSKE	[309]	500	Q96DU3	Substrate	NA	SLAM family member	0	0
+12	2	SRC_334_343_Y338npY_E334G	GEPIYIVTEYMSK	GEPI(NO2-pY)IVTEYMSK	[338]	500	P12931	Substrate	NA	Proto-oncogene tyrosine-protein kinase Src	0	0
+12	3	SRC_414_424_Y419npY	IEDNEYTARQG	IEDNE(NO2-pY)TARQG	[419]	500	P12931	Substrate	NA	Proto-oncogene tyrosine-protein kinase Src	0	0
+12	4	SRC_525_535_Y530npY	STEPQYQPGEN	STEPQ(NO2-pY)QPGEN	[530]	500	P12931	Substrate	NA	Proto-oncogene tyrosine-protein kinase Src	0	0
+12	5	STA5A_689_699_Y694npY	KAVDGYVKPQI	KAVDG(NO2-pY)VKPQI	[694]	500	P42229	Substrate	NA	Signal transducer and activator of transcription 5A	0	0
+12	6	STAT1_696_706_Y701npY	PKGTGYIKTEL	PKGTG(NO2-pY)IKTEL	[701]	500	P42224	Substrate	NA	Signal transducer and activator of transcription 1-alpha/beta	0	0
+12	7	STAT3_701_709_Y705npY	SAAPYLKTK	SAAP(NO2-pY)LKTK	[705]	500	P40763	Substrate	NA	Signal transducer and activator of transcription	0	0
+12	8	TEC_514_524_Y519npY	FLDDQYTSSSG	FLDDQ(NO2-pY)TSSSG	[519]	500	P42680	Substrate	NA	Tyrosine-protein kinase Tec	0	0
+12	9	TERA_791_801_Y796npY	TGGSVYTEDND	TGGSV(NO2-pY)TEDND	[796]	500	P55072	Substrate	NA	Transitional endoplasmic reticulum ATPase	0	0
+12	10	TIE1_1002_1012_Y1007npY_M1012B	RGEEVYVKKTB	RGEEV(NO2-pY)VKKTB	[1007]	500	P35590	Substrate	NA	Tyrosine-protein kinase receptor Tie-1	0	0
+12	11	TNFL4_140_150_Y145npY	VASLTYKDKVY	VASLT(NO2-pY)KDKVY	[145]	500	P23510	Substrate	NA	Tumor necrosis factor ligand superfamily member 	0	0
+12	12	TNFL4_145_155_Y150npY	YKDKVYLNVTT	YKDKV(NO2-pY)LNVTT	[150]	500	P23510	Substrate	NA	Tumor necrosis factor ligand superfamily member 	0	0
+12	13	TNR9_217_227_Y222npY	RKKLLYIFKQP	RKKLL(NO2-pY)IFKQP	[222]	500	Q07011	Substrate	NA	Tumor necrosis factor receptor superfamily member 	0	0
+13	1	TRIP6_50_60_Y55npY_C54S	PSEQSYQAPGG	PSEQS(NO2-pY)QAPGG	[55]	500	Q15654	Substrate	NA	Thyroid receptor-interacting protein	0	0
+13	2	TRPV6_196_206_Y201npY	PSNLIYFGEHP	PSNLI(NO2-pY)FGEHP	[201]	500	Q9H1D0	Substrate	NA	Transient receptor potential cation channel subfamily V member	0	0
+13	3	TYK2_1049_1059_Y1054npY	PEGHEYYRVRE	PEGHE(NO2-pY)YRVRE	[1054]	500	P29597	Substrate	NA	Non-receptor tyrosine-protein kinase TYK2	0	0
+13	4	TYK2_1050_1060_Y1055npY	EGHEYYRVRED	EGHEY(NO2-pY)RVRED	[1055]	500	P29597	Substrate	NA	Non-receptor tyrosine-protein kinase TYK2	0	0
+13	5	TYOBP_86_96_Y91npY	ETESPYQELQG	ETESP(NO2-pY)QELQG	[91]	500	O43914	Substrate	NA	TYRO protein tyrosine kinase-binding protein	0	0
+13	6	TYOBP_97_107_Y102npY	QRSDVYSDLNT	QRSDV(NO2-pY)SDLNT	[102]	500	O43914	Substrate	NA	TYRO protein tyrosine kinase-binding protein	0	0
+13	7	VAV_155_165_Y160npY_C162S_E165K_D166G	KGEDLYDSVEN	KGEDL(NO2-pY)DSVEN	[160]	500	P15498	Substrate	NA	Proto-oncogene vav	0	0
+13	8	VAV_169_179_Y174npY	EGDEIYEDLMR	EGDEI(NO2-pY)EDLMR	[174]	500	P15498	Substrate	NA	Proto-oncogene vav	0	0
+13	9	VAV_821_831_Y826npY	WRGEIYGRVGW	WRGEI(NO2-pY)GRVGW	[826]	500	P15498	Substrate	NA	Proto-oncogene vav	0	0
+13	10	VAV_835_845_Y841npY_C841S	NYVEEDYSEYS	NYVEED(NO2-pY)SEYS	[841]	500	P15498	Substrate	NA	Proto-oncogene vav	0	0
+13	11	VGFR1_1208_1218_Y1213npY	SDDVRYVNAFK	SDDVR(NO2-pY)VNAFK	[1213]	500	P17948	Substrate	NA	Vascular endothelial growth factor receptor	0	0
+13	12	VGFR2_1209_1219_Y1214npY	DPKFHYDNTAG	DPKFH(NO2-pY)DNTAG	[1214]	500	P35968	Substrate	NA	Vascular endothelial growth factor receptor	0	0
+13	13	SRC_525_535_Y530nY	STEPQYQPGEN	STEPQ(NO2-Y)QPGEN	[530]	500	P12931	Pos. control 	NA	NA	0	0
+14	1	VISTA_260_270_Y265npY	RHPLSYVAQRQ	RHPLS(NO2-pY)VAQRQ	[265]	500	Q9H7M9	Substrate	NA	V-type immunoglobulin domain-containing suppressor of T-cell activation	0	0
+14	2	WASL_251_261_Y256npY	TSKVIYDFIEK	TSKVI(NO2-pY)DFIEK	[256]	500	O00401	Substrate	NA	Neural Wiskott-Aldrich syndrome protein	0	0
+14	3	ZAP70_287_296_Y292npY	LNSDGYTPEP	LNSDG(NO2-pY)TPEP	[292]	500	P43403	Substrate	NA	Tyrosine-protein kinase ZAP-70	0	0
+14	4	ZAP70_314_324_Y319npY	VYESPYSDPEE	VYESP(NO2-pY)SDPEE	[319]	500	P43403	Substrate	NA	Tyrosine-protein kinase ZAP-70	0	0
+14	5	ZAP70_487_497_Y492npY	GADDSYYTARS	GADDS(NO2-pY)YTARS	[492]	500	P43403	Substrate	NA	Tyrosine-protein kinase ZAP-70	0	0
+14	6	ZAP70_488_498_Y493npY	ADDSYYTARSA	ADDSY(NO2-pY)TARSA	[493]	500	P43403	Substrate	NA	Tyrosine-protein kinase ZAP-70	0	0
+14	7	TIGIT_226_236_Y231npY	FNVLSYRSLGN	FNVLS(NO2-pY)RSLGN	[231]	500	Q495A1	Substrate	NA	T-cell immunoreceptor with Ig and ITIM domains	0	0
+14	8	I23O1_106_115_Y111npY	NIAVPYCQLSK	NIAVP(NO2-pY)CQLSK	[111]	500	P14902	Substrate	NA	Indoleamine 2,3-dioxygenase 1	0	0
+14	9	I23O1_243_253_Y249npY_L243K	KSDGLVYEGFW	KSDGLV(NO2-pY)EGFW	[249]	500	P14902	Substrate	NA	Indoleamine 2,3-dioxygenase 1	0	0
+14	10	STAT3_701_709_Y705nY	SAAPYLKTK	SAAP(NO2-Y)LKTK	[705]	500	P40763	Pos. control 	NA	NA	0	0
+14	11	VAV_833_844_Y841npY_P833K_A834K	KKNYVEEDYSEY	KKNYVEED(NO2-pY)SEY	[841]	500	P15498	Substrate	NA	Proto-oncogene vav	0	0

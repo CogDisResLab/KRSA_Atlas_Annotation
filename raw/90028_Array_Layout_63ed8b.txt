@@ -1,0 +1,153 @@
+Row	Col	ID	Sequence	Ser	Thr	UniprotAccession	Description	Xoff	Yoff
+-1	-1	#REF	NA	NA	NA	NA	NA	0	0
+-3	-1	#REF	NA	NA	NA	NA	NA	0	0
+-5	-1	#REF	NA	NA	NA	NA	NA	0	0
+-3	-2	#REF	NA	NA	NA	NA	NA	0	0
+-2	-20	#REF	NA	NA	NA	NA	NA	0	0
+-4	-20	#REF	NA	NA	NA	NA	NA	0	0
+-6	-20	#REF	NA	NA	NA	NA	NA	0	0
+-6	-19	#REF	NA	NA	NA	NA	NA	0	0
+1	1	pEGFR_671_683	RHIVRKR(pT)LRRLL	[]	[678]	P00533	Epidermal growth factor receptor precursor (EC 2.7.10.1) (Receptortyrosine-protein kinase ErbB-1).	0	0
+1	2	ABL1_729_740	TEWRSVTLPRDL	[733]	"[729, 735]"	P00519	Proto-oncogene tyrosine-protein kinase ABL1 (EC 2.7.10.2) (p150) (c-ABL) (Abelson murine leukemia viral oncogene homolog 1).	0	0
+1	3	ACM1_421_433	CNKAFRDTFRLLL	[]	[428]	P11229	Muscarinic acetylcholine receptor M1.	0	0
+1	4	ACM1_444_456	KIPKRPGSVHRTP	[451]	[455]	P11229	Muscarinic acetylcholine receptor M1.	0	0
+1	5	ACM4_456_468	CNATFKKTFRHLL	[]	"[459, 463]"	P08173	Muscarinic acetylcholine receptor M4.	0	0
+1	6	ACM5_494_506	CYALCNRTFRKTF	[]	"[501, 505]"	P08912	Muscarinic acetylcholine receptor M5.	0	0
+1	7	ACM5_498_510	CNRTFRKTFKMLL	[]	"[501, 505]"	P08912	Muscarinic acetylcholine receptor M5.	0	0
+1	8	ADDB_696_708	GSPSKSPSKKKKK	"[697, 699, 701, 703]"	[]	P35612	Beta-adducin (Erythrocyte adducin subunit beta)	0	0
+1	9	ADDB_706_718	KKKFRTPSFLKKS	"[713, 718]"	[711]	P35612	Beta-adducin (Erythrocyte adducin subunit beta)	0	0
+1	10	ADRB2_338_350	ELLCLRRSSLKAY	"[345, 346]"	[]	P07550	Beta-2 adrenergic receptor (Beta-2 adrenoceptor) (Beta-2adrenoreceptor).	0	0
+1	11	AKT1_301_313	KDGATMKTFCGTP	[]	"[305, 308, 312]"	P31749	RAC-alpha serine/threonine-protein kinase (EC 2.7.11.1) (RAC-PK-alpha)(Protein kinase B) (PKB) (C-AKT).	0	0
+1	12	pKPCB_626_639	AENFDRFF(pT)RHPPV	[]	[634]	P05771-2	Protein kinase C beta type (EC 2.7.11.13) (PKC-beta) (PKC-B).	0	0
+2	1	ANXA1_209_221	AGERRKGTDVNVF	[]	[216]	P04083	Annexin A1 (Annexin-1) (Annexin I) (Lipocortin I) (Calpactin II)(Chromobindin-9) (p35) (Phospholipase A2 inhibitory protein).	0	0
+2	2	ANXA2_17_29	HSTPPSAYGSVKA	"[18, 22, 26]"	[19]	P07355	Annexin A2 (Annexin-2) (Annexin II) (Lipocortin II) (Calpactin I heavychain) (Chromobindin-8) (p36) (Protein I) (Placental anticoagulantprotein IV) (PAP-IV).	0	0
+2	3	ATF2_47_59	VADQTPTPTRFLK	[]	"[51, 53, 55]"	P15336	Cyclic AMP-dependent transcription factor ATF-2 (Activatingtranscription factor 2) (cAMP response element-binding protein CRE-BP1) (HB16).	0	0
+2	4	BCKD_45_57	ERSKTVTSFYNQS	"[47, 52, 57]"	"[49, 51]"	O14874	"[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase,mitochondrial precursor (EC 2.7.11.4) (Branched-chain alpha-ketoaciddehydrogenase kinase) (BCKDHKIN) (BCKD-kinase)."	0	0
+2	5	CAC1C_1974_1986	ASLGRRASFHLEC	"[1975, 1981]"	[]	Q13936	"Voltage-dependent L-type calcium channel subunit alpha-1C (Voltage-gated calcium channel subunit alpha Cav1.2) (Calcium channel, L type,alpha-1 polypeptide, isoform 1, cardiac muscle)."	0	0
+2	6	CA2D1_494_506	LEDIKRLTPRFTL	[]	"[501, 505]"	P54289	Voltage-dependent calcium channel subunit alpha-2/delta-1 precursor(Voltage-gated calcium channel subunit alpha-2/delta-1) [Contains:Voltage-dependent calcium channel subunit alpha-2-1; Voltage-dependentcalcium channel subunit delta-1].	0	0
+2	7	CALD1_752_764	KTPDGNKSPAPKP	[759]	[753]	Q05682	Caldesmon (CDM).	0	0
+2	8	CALD1_746_758	INEWLTKTPDGNK	[]	"[751, 753]"	Q05682	Caldesmon (CDM).	0	0
+2	9	CBL_693_705	EGEEDTEYMTPSS	"[704, 705]"	"[698, 702]"	P22681	E3 ubiquitin-protein ligase CBL (EC 6.3.2.-) (Signal transductionprotein CBL) (Proto-oncogene c-CBL) (Casitas B-lineage lymphoma proto-oncogene) (RING finger protein 55).	0	0
+2	10	CDC2_154_169	GIPIRVYTHEVVTLWY	[]	"[161, 166]"	P06493	Cell division control protein 2 homolog (EC 2.7.11.22) (EC 2.7.11.23)(p34 protein kinase) (Cyclin-dependent kinase 1) (CDK1).	0	0
+2	11	CDK7_163_175	GSPNRAYTHQVVT	[164]	"[170, 175]"	P50613	Cell division protein kinase 7 (EC 2.7.11.22) (EC 2.7.11.23) (CDK-activating kinase) (CAK) (TFIIH basal transcription factor complexkinase subunit) (39 kDa protein kinase) (P39 Mo15) (STK1) (CAK1).	0	0
+2	12	CENPA_1_14	MGPRRRSRKPEAPR	[7]	[]	P49450	Histone H3-like centromeric protein A (Centromere protein A) (CENP-A)(Centromere autoantigen A).	0	0
+3	1	CENPC_725_737	HHKLVLPSNTPNV	[732]	[734]	Q03188	Centromere protein C 1 (CENP-C) (Centromere autoantigen C) (Interphasecentromere complex protein 7).	0	0
+3	2	CSF1R_701_713	NIHLEKKYVRRDS	[713]	[]	P07333	Macrophage colony-stimulating factor 1 receptor precursor(EC 2.7.10.1) (CSF-1-R) (Fms proto-oncogene) (c-fms) (CD115 antigen).	0	0
+3	3	CFTR_730_742	EPLERRLSLVPDS	"[737, 742]"	[]	P13569	Cystic fibrosis transmembrane conductance regulator (CFTR) (cAMP-dependent chloride channel) (ATP-binding cassette transporter sub-family C member 7).	0	0
+3	4	CFTR_761_773	LQARRRQSVLNLM	[768]	[]	P13569	Cystic fibrosis transmembrane conductance regulator (CFTR) (cAMP-dependent chloride channel) (ATP-binding cassette transporter sub-family C member 7).	0	0
+3	5	CFTR_783_795	IHRKTTASTRKVS	"[790, 795]"	"[787, 788, 791]"	P13569	Cystic fibrosis transmembrane conductance regulator (CFTR) (cAMP-dependent chloride channel) (ATP-binding cassette transporter sub-family C member 7).	0	0
+3	6	CGHB_109_121	QCALCRRSTTDCG	[116]	"[117, 118]"	P01233	Choriogonadotropin subunit beta precursor (CG-beta) (Chorionicgonadotrophin chain beta).	0	0
+3	7	CHK2_377_389	ETSLMRTLCGTPT	[379]	"[378, 383, 387, 389]"	O96017	Serine/threonine-protein kinase Chk2 (EC 2.7.11.1) (Cds1).	0	0
+3	8	COF1_17_29	DMKVRKSSTPEEV	"[23, 24]"	[25]	P23528	"Cofilin-1 (Cofilin, non-muscle isoform) (18 kDa phosphoprotein) (p18)."	0	0
+3	9	CREB1_126_138	EILSRRPSYRKIL	"[129, 133]"	[]	P16220	cAMP response element-binding protein (CREB).	0	0
+3	10	CSK21_355_367	ISSVPTPSPLGPL	"[356, 357, 362]"	[360]	P68400	Casein kinase II subunit alpha (EC 2.7.11.1) (CK II).	0	0
+3	11	DCX_49_61	HFDERDKTSRNMR	[57]	[56]	O43602	Neuronal migration protein doublecortin (Lissencephalin-X) (Lis-X)(Doublin).	0	0
+3	12	ELK1_329_341	GGPGPERTPGSGS	"[339, 341]"	[336]	P19419	ETS domain-containing protein Elk-1.	0	0
+4	1	ELK1_356_368	LLPTHTLTPVLLT	[]	"[359, 361, 363, 368]"	P19419	ETS domain-containing protein Elk-1.	0	0
+4	2	ELK1_410_422	ISVDGLSTPVVLS	"[411, 416, 422]"	[417]	P19419	ETS domain-containing protein Elk-1.	0	0
+4	3	EPB42_241_253	LLNKRRGSVPILR	[248]	[]	P16452	Erythrocyte membrane protein band 4.2 (Erythrocyte protein 4.2)(P4.2).	0	0
+4	4	ERBB2_679_691	QQKIRKYTMRRLL	[]	[686]	P04626	Receptor tyrosine-protein kinase erbB-2 precursor (EC 2.7.10.1)(p185erbB2) (C-erbB-2) (NEU proto-oncogene) (Tyrosine kinase-type cellsurface receptor HER2) (MLN 19) (CD340 antigen).	0	0
+4	5	ERF_519_531	GEAGGPLTPRRVS	[531]	[526]	P50548	ETS domain-containing transcription factor ERF (Ets2 repressorfactor).	0	0
+4	6	ESR1_160_172	GGRERLASTNDKG	[167]	[168]	P03372	Estrogen receptor (ER) (Estradiol receptor) (ER-alpha) (Nuclearreceptor subfamily 3 group A member 1).	0	0
+4	7	F263_454_466	NPLMRRNSVTPLA	[461]	[463]	Q16875	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 (6PF-2-K/Fru-2,6-P2ASE brain/placenta-type isozyme) (iPFK-2) (Renal carcinomaantigen NY-REN-56) [Includes: 6-phosphofructo-2-kinase (EC 2.7.1.105);Fructose-2,6-bisphosphatase (EC 3.1.3.46)]."	0	0
+4	8	F264_437_449	LNVAAVNTHRDRP	[]	[444]	Q16877	"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4 (6PF-2-K/Fru-2,6-P2ASE testis-type isozyme) [Includes: 6-phosphofructo-2-kinase(EC 2.7.1.105); Fructose-2,6-bisphosphatase (EC 3.1.3.46)]."	0	0
+4	9	FIBA_569_581	EFPSRGKSSSYSK	"[572, 576, 577, 578, 580]"	[]	P02671	Fibrinogen alpha chain precursor [Contains: Fibrinopeptide A].	0	0
+4	10	FOXO3_25_37	QSRPRSCTWPLQR	"[26, 30]"	[32]	O43524	Forkhead box protein O3 (Forkhead in rhabdomyosarcoma-like 1) (AF6q21protein).	0	0
+4	11	GPR6_349_361	QSKVPFRSRSPSE	"[350, 356, 358, 360]"	[]	P46095	Sphingosine 1-phosphate receptor GPR6 (G-protein coupled receptor 6).	0	0
+4	12	GPSM2_394_406	PKLGRRHSMENME	[401]	[]	P81274	G-protein-signaling modulator 2 (Mosaic protein LGN).	0	0
+5	1	GBRB2_427_439	SRLRRRASQLKIT	"[427, 434]"	[439]	P47870	Gamma-aminobutyric acid receptor subunit beta-2 precursor (GABA(A)receptor subunit beta-2).	0	0
+5	2	GRIK1_718_730	EKMWAFMSSRQQT	"[725, 726]"	[730]	P39086	"Glutamate receptor, ionotropic kainate 1 precursor (Glutamate receptor5) (GluR-5) (GluR5) (Excitatory amino acid receptor 3) (EAA3)."	0	0
+5	3	GRIK2_708_720	FMSSRRQSVLVKS	"[710, 711, 715, 720]"	[]	Q13002	"Glutamate receptor, ionotropic kainate 2 precursor (Glutamate receptor6) (GluR-6) (GluR6) (Excitatory amino acid receptor 4) (EAA4)."	0	0
+5	4	GSUB_61_73	KKPRRKDTPALHI	[]	[68]	O96001	G-substrate.	0	0
+5	5	GYS2_1_13	MLRGRSLSVTSLG	"[6, 8, 11]"	[10]	P54840	"Glycogen [starch] synthase, liver (EC 2.4.1.11)."	0	0
+5	6	H2B1B_ 27_40	GKKRKRSRKESYSI	"[33, 37, 39]"	[]	P33778	Histone H2B type 1-B (H2B.f) (H2B/f) (H2B.1).	0	0
+5	7	H2B1B_26_38	DGKKRKRSRKESY	"[33, 37]"	[]	P33778	Histone H2B type 1-B (H2B.f) (H2B/f) (H2B.1).	0	0
+5	8	H32_3_18	RTKQTARKSTGGKAPR	[11]	"[4, 7, 12]"	Q71DI3	Histone H3.2 (H3/m) (H3/o).	0	0
+5	9	HS90B_219_231	KEREKEISDDEAE	[226]	[]	P08238	Heat shock protein HSP 90-beta (HSP 84) (HSP 90).	0	0
+5	10	INSR_1368_1380	KKNGRILTLPRSN	[1379]	[1375]	P06213	Insulin receptor precursor (EC 2.7.10.1) (IR) (CD220 antigen)[Contains: Insulin receptor subunit alpha; Insulin receptor subunitbeta].	0	0
+5	11	PPR1A_28_40	QIRRRRPTPATLV	[]	"[35, 38]"	Q13522	Protein phosphatase 1 regulatory subunit 1A (Protein phosphataseinhibitor 1) (IPP-1) (I-1).	0	0
+5	12	K6PL_766_778	LEHVTRRTLSMDK	[775]	"[770, 773]"	P17858	"6-phosphofructokinase, liver type (EC 2.7.1.11) (Phosphofructokinase1) (Phosphohexokinase) (Phosphofructo-1-kinase isozyme B) (PFK-B)."	0	0
+6	1	KAP2_92_104	SRFNRRVSVCAET	"[92, 99]"	[104]	P13861	cAMP-dependent protein kinase type II-alpha regulatory subunit.	0	0
+6	2	KAP3_107_119	NRFTRRASVCAEA	[114]	[110]	P31323	cAMP-dependent protein kinase type II-beta regulatory subunit.	0	0
+6	3	KAPCG_192_206	VKGRTWTLCGTPEYL	[]	"[196, 198, 202]"	P22612	cAMP-dependent protein kinase catalytic subunit gamma (EC 2.7.11.11)(PKA C-gamma).	0	0
+6	4	KCC1A_170_182	DPGSVLSTACGTP	"[173, 176]"	"[177, 181]"	Q14012	Calcium/calmodulin-dependent protein kinase type 1 (EC 2.7.11.17) (CaMkinase I) (CaM-KI) (CaM kinase I alpha) (CaMKI-alpha).	0	0
+6	5	KCC2G_278_289	VASMMHRQETVE	[280]	[287]	Q13555	Calcium/calmodulin-dependent protein kinase type II gamma chain(EC 2.7.11.17) (CaM-kinase II gamma chain) (CaM kinase II subunitgamma) (CaMK-II subunit gamma).	0	0
+6	6	KCNA1_438_450	DSDLSRRSSSTMS	"[439, 442, 445, 446, 447, 450]"	[448]	Q09470	Potassium voltage-gated channel subfamily A member 1 (Voltage-gatedpotassium channel subunit Kv1.1) (HUKI) (HBK1).	0	0
+6	7	KCNA2_442_454	PDLKKSRSASTIS	"[447, 449, 451, 454]"	[452]	P16389	Potassium voltage-gated channel subfamily A member 2 (Voltage-gatedpotassium channel subunit Kv1.2) (HBK5) (NGK1) (HUKIV).	0	0
+6	8	KCNA3_461_473	EELRKARSNSTLS	"[468, 470, 473]"	[471]	P22001	Potassium voltage-gated channel subfamily A member 3 (Voltage-gatedpotassium channel subunit Kv1.3) (HPCN3) (HGK5) (HuKIII) (HLK3).	0	0
+6	9	KCNA6_504_516	ANRERRPSYLPTP	[511]	[515]	P17658	Potassium voltage-gated channel subfamily A member 6 (Voltage-gatedpotassium channel subunit Kv1.6) (HBK2).	0	0
+6	10	KCNB1_489_501	KWTKRTLSETSSS	"[496, 499, 500, 501]"	"[491, 494, 498]"	Q14721	Potassium voltage-gated channel subfamily B member 1 (Voltage-gatedpotassium channel subunit Kv2.1) (h-DRK1).	0	0
+6	11	KIF11_919_931	LDIPTGTTPQRKS	[931]	"[923, 925, 926]"	P52732	Kinesin-like protein KIF11 (Kinesin-related motor protein Eg5)(Kinesin-like spindle protein HKSP) (Thyroid receptor-interactingprotein 5) (TRIP-5) (Kinesin-like protein 1).	0	0
+6	12	KPB1_1011_1023	QVEFRRLSISAES	"[1018, 1020, 1023]"	[]	P46020	"Phosphorylase b kinase regulatory subunit alpha, skeletal muscleisoform (Phosphorylase kinase alpha M subunit)."	0	0
+7	1	KPCB_19_31_A25S	RFARKGSLRQKNV	[25]	[]	P05771	Protein kinase C beta type (EC 2.7.11.13) (PKC-beta) (PKC-B).	0	0
+7	2	KPCB_626_639	AENFDRFFTRHPPV	[]	[634]	P05771-2	Protein kinase C beta type (EC 2.7.11.13) (PKC-beta) (PKC-B).	0	0
+7	3	LA_359_371	GKKTKFASDDEHD	[366]	[362]	P05455	Lupus La protein (Sjoegren syndrome type B antigen) (SS-B) (Laribonucleoprotein) (La autoantigen).	0	0
+7	4	LMNB1_16_28	GGPTTPLSPTRLS	"[23, 28]"	"[19, 20, 25]"	P20700	Lamin-B1.	0	0
+7	5	LMNA_192_204	DAENRLQTMKEEL	[]	[199]	P02545	Lamin-A/C (70 kDa lamin) (Renal carcinoma antigen NY-REN-32).	0	0
+7	6	MARCS_152_164	KKKKKRFSFKKSF	"[159, 163]"	[]	P29966	"Myristoylated alanine-rich C-kinase substrate (MARCKS) (Protein kinaseC substrate, 80 kDa protein, light chain) (PKCSL) (80K-L protein)."	0	0
+7	7	MARCS_160_172	FKKSFKLSGFSFK	"[163, 167, 170]"	[]	P29966	"Myristoylated alanine-rich C-kinase substrate (MARCKS) (Protein kinaseC substrate, 80 kDa protein, light chain) (PKCSL) (80K-L protein)."	0	0
+7	8	MBP_222_234	HFFKNIVTPRTPP	[]	"[229, 232]"	P02686	Myelin basic protein (MBP) (Myelin A1 protein) (Myelin membraneencephalitogenic protein).	0	0
+7	9	MBP_225_237	KNIVTPRTPPPSQ	[236]	"[229, 232]"	P02686	Myelin basic protein (MBP) (Myelin A1 protein) (Myelin membraneencephalitogenic protein).	0	0
+7	10	MK10_214_226	AGTSFMMTPYVVT	[217]	"[216, 221, 226]"	P53779	Mitogen-activated protein kinase 10 (EC 2.7.11.24) (Stress-activated protein kinase JNK3) (c-Jun N-terminal kinase 3) (MAP kinase p49 3F12).	0	0
+7	11	MP2K1_281_293	GDAAETPPRPRTP	[]	"[286, 292]"	Q02750	Dual specificity mitogen-activated protein kinase kinase 1(EC 2.7.12.2) (MAP kinase kinase 1) (MAPKK 1) (ERK activator kinase 1)(MAPK/ERK kinase 1) (MEK1).	0	0
+7	12	MP2K1_287_299	PPRPRTPGRPLSS	"[298, 299]"	[292]	Q02750	Dual specificity mitogen-activated protein kinase kinase 1(EC 2.7.12.2) (MAP kinase kinase 1) (MAPKK 1) (ERK activator kinase 1)(MAPK/ERK kinase 1) (MEK1).	0	0
+8	1	MPH6_140_152	EDENGDITPIKAK	[]	[147]	Q99547	M-phase phosphoprotein 6.	0	0
+8	2	MPIP3_208_220	RSGLYRSPSMPEN	"[209, 214, 216]"	[]	P30307	M-phase inducer phosphatase 3 (EC 3.1.3.48) (Dual specificityphosphatase Cdc25C).	0	0
+8	3	MYBB_513_525	DNTPHTPTPFKNA	[]	"[515, 518, 520]"	P10244	Myb-related protein B (B-Myb).	0	0
+8	4	MYC_51_63	KKFELLPTPPLSP	[62]	[58]	P01106	Myc proto-oncogene protein (c-Myc) (Transcription factor p64).	0	0
+8	5	MYPC3_268_280	LSAFRRTSLAGGG	"[269, 275]"	[274]	Q14896	"Myosin-binding protein C, cardiac-type (Cardiac MyBP-C) (C-protein,cardiac muscle isoform)."	0	0
+8	6	NCF1_296_308	RGAPPRRSSIRNA	"[303, 304]"	[]	P14598	Neutrophil cytosol factor 1 (NCF-1) (Neutrophil NADPH oxidase factor1) (47 kDa neutrophil oxidase factor) (p47-phox) (NCF-47K) (47 kDaautosomal chronic granulomatous disease protein) (Nox organizer 2)(Nox-organizing protein 2) (SH3 and PX domain-containing protein 1A).	0	0
+8	7	NCF1_321_333	QDAYRRNSVRFLQ	[328]	[]	P14598	Neutrophil cytosol factor 1 (NCF-1) (Neutrophil NADPH oxidase factor1) (47 kDa neutrophil oxidase factor) (p47-phox) (NCF-47K) (47 kDaautosomal chronic granulomatous disease protein) (Nox organizer 2)(Nox-organizing protein 2) (SH3 and PX domain-containing protein 1A).	0	0
+8	8	NCF1_372_384	DLILNRCSESTKR	"[379, 381]"	[382]	P14598	Neutrophil cytosol factor 1 (NCF-1) (Neutrophil NADPH oxidase factor1) (47 kDa neutrophil oxidase factor) (p47-phox) (NCF-47K) (47 kDaautosomal chronic granulomatous disease protein) (Nox organizer 2)(Nox-organizing protein 2) (SH3 and PX domain-containing protein 1A).	0	0
+8	9	NEK2_172_184	FAKTFVGTPYYMS	[184]	"[175, 179]"	P51955	Serine/threonine-protein kinase Nek2 (EC 2.7.11.1) (NimA-relatedprotein kinase 2) (NimA-like protein kinase 1) (HSPK 21).	0	0
+8	10	NEK3_158_170	FACTYVGTPYYVP	[]	"[161, 165]"	P51956	Serine/threonine-protein kinase Nek3 (EC 2.7.11.1) (NimA-relatedprotein kinase 3) (HSPK 36).	0	0
+8	11	NFKB1_330_342	FVQLRRKSDLETS	"[337, 342]"	[341]	P19838	Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) [Contains: Nuclear factor NF-kappa-B p50 subunit].	0	0
+8	12	NMDZ1_890_902	SFKRRRSSKDTST	"[890, 896, 897, 901]"	"[900, 902]"	Q05586	Glutamate [NMDA] receptor subunit zeta-1 precursor (N-methyl-D-aspartate receptor subunit NR1).	0	0
+9	1	NR4A1_344_356	GRRGRLPSKPKQP	[351]	[]	P22736	Nuclear receptor subfamily 4 group A member 1 (Orphan nuclear receptorHMR) (Early response protein NAK1) (TR3 orphan receptor) (ST-59).	0	0
+9	2	NTRK3_824_836	LHALGKATPIYLD	[]	[831]	Q16288	NT-3 growth factor receptor precursor (EC 2.7.10.1) (Neurotrophictyrosine kinase receptor type 3) (TrkC tyrosine kinase) (GP145-TrkC)(Trk-C).	0	0
+9	3	PP2AB_297_309	EPHVTRRTPDYFL	[]	"[301, 304]"	P62714	Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform(EC 3.1.3.16) (PP2A-beta).	0	0
+9	4	P53_308_323	LPNNTSSSPQPKKKPL	"[313, 314, 315]"	[312]	P04637	Cellular tumor antigen p53 (Tumor suppressor p53) (Phosphoprotein p53)(Antigen NY-CO-13).	0	0
+9	5	PDE5A_95_107	GTPTRKISASEFD	"[102, 104]"	"[96, 98]"	O76074	"cGMP-specific 3',5'-cyclic phosphodiesterase (EC 3.1.4.35) (CGB-PDE)(cGMP-binding cGMP-specific phosphodiesterase)."	0	0
+9	6	PYGL_8_20	QEKRRQISIRGIV	[15]	[]	P06737	"Glycogen phosphorylase, liver form (EC 2.4.1.1)."	0	0
+9	7	DESP_2842_2854	RSGSRRGSFDATG	"[2843, 2845, 2849]"	[2853]	P15924	Desmoplakin (DP) (250/210 kDa paraneoplastic pemphigus antigen).	0	0
+9	8	PLEK_106_118	GQKFARKSTRRSI	"[113, 117]"	[114]	P08567	Pleckstrin (Platelet p47 protein).	0	0
+9	9	PLM_76_88	EEGTFRSSIRRLS	"[82, 83, 88]"	[79]	O00168	Phospholemman precursor (FXYD domain-containing ion transportregulator 1).	0	0
+9	10	PPLA_9_21	RSAIRRASTIEMP	"[10, 16]"	[17]	P26678	Cardiac phospholamban (PLB).	0	0
+9	11	PRGR_786_798	EQRMKESSFYSLC	"[792, 793, 796]"	[]	P06401	Progesterone receptor (PR) (Nuclear receptor subfamily 3 group Cmember 3).	0	0
+9	12	PTK6_436_448	ALRERLSSFTSYE	"[442, 443, 446]"	[445]	Q13882	Tyrosine-protein kinase 6 (EC 2.7.10.2) (Breast tumor kinase)(Tyrosine-protein kinase BRK).	0	0
+10	1	PTN12_32_44	FMRLRRLSTKYRT	[39]	"[40, 44]"	Q05209	Tyrosine-protein phosphatase non-receptor type 12 (EC 3.1.3.48)(Protein-tyrosine phosphatase G1) (PTPG1) (PTP-PEST).	0	0
+10	2	ART_025_CXGLRRWSLGGLRRWSL	GLRRWSLGGLRRWSL	NA	NA	NA	NA	0	0
+10	3	KIF2C_105_118_S106G	EGLRSRSTRMSTVS	"[109, 111, 115, 118]"	"[112, 116]"	Q99661	Kinesin-like protein KIF2C (Mitotic centromere-associated kinesin)(MCAK) (Kinesin-like protein 6).	0	0
+10	4	RAB1A_187_199	KSNVKIQSTPVKQ	"[188, 194]"	[195]	P62820	Ras-related protein Rab-1A (YPT1-related protein).	0	0
+10	5	RADI_559_569	RDKYKTLRQIR	[]	[564]	P35241	Radixin.	0	0
+10	6	RAF1_252_264	SQRQRSTSTPNVH	"[252, 257, 259]"	"[258, 260]"	P04049	RAF proto-oncogene serine/threonine-protein kinase (EC 2.7.11.1) (Raf-1) (C-RAF) (cRaf).	0	0
+10	7	RAP1B_172_184	PGKARKKSSCQLL	"[179, 180]"	[]	P61224	Ras-related protein Rap-1b precursor (GTP-binding protein smg p21B).	0	0
+10	8	RB_242_254	AVIPINGSPRTPR	[249]	[252]	P06400	Retinoblastoma-associated protein (PP110) (P105-RB) (RB).	0	0
+10	9	RB_804_816	IYISPLKSPYKIS	"[807, 811, 816]"	[]	P06400	Retinoblastoma-associated protein (PP110) (P105-RB) (RB).	0	0
+10	10	RBL2_410_422	KENSPCVTPVSTA	"[413, 420]"	"[417, 421]"	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+10	11	RBL2_632_644	DEICIAGSPLTPR	[639]	[642]	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+10	12	RBL2_635_647	CIAGSPLTPRRVT	[639]	"[642, 647]"	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+11	1	RBL2_655_667	GLGRSITSPTTLY	"[659, 662]"	"[661, 664, 665]"	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+11	2	RBL2_687_699	DSPSDGGTPGRMP	"[688, 690]"	[694]	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+11	3	RBL2_955_967	ELNKDRTSRDSSP	"[962, 965, 966]"	[961]	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+11	4	RBL2_959_971	DRTSRDSSPVMRS	"[962, 965, 966, 971]"	[961]	Q08999	Retinoblastoma-like protein 2 (130 kDa retinoblastoma-associatedprotein) (p130) (PRB2) (RBR-2).	0	0
+11	5	REL_260_272	KMQLRRPSDQEVS	"[267, 272]"	[]	Q04864	C-Rel proto-oncogene protein (C-Rel protein).	0	0
+11	6	RS6_228_240	IAKRRRLSSLRAS	"[235, 236, 240]"	[]	P62753	40S ribosomal protein S6 (Phosphoprotein NP33).	0	0
+11	7	RYR1_4317_4329	VRRLRRLTAREAA	[]	[4324]	P21817	Ryanodine receptor 1 (Skeletal muscle-type ryanodine receptor) (RyR1)(RYR-1) (Skeletal muscle calcium release channel).	0	0
+11	8	SCN7A_898_910	KNGCRRGSSLGQI	"[905, 906]"	[]	Q01118	Sodium channel protein type 7 subunit alpha (Sodium channel proteintype VII subunit alpha) (Putative voltage-gated sodium channel subunitalpha Nax) (Sodium channel protein cardiac and skeletal muscle subunitalpha).	0	0
+11	9	SRC_413_425	LIEDNEYTARQGA	[]	[420]	P12931	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (p60-Src) (c-Src) (pp60c-src).	0	0
+11	10	SRC8_CHICK_423_435	KTPSSPVYQDAVS	"[426, 427, 435]"	[424]	Q01406	Src substrate protein p85 (p80) (Cortactin).	0	0
+11	11	STK6_283_295	SSRRTTLCGTLDY	"[283, 284]"	"[287, 288, 292]"	O14965	Serine/threonine-protein kinase 6 (EC 2.7.11.1) (Aurora kinase A)(Aurora-A) (Serine/threonine kinase 15) (Aurora/IPL1-related kinase 1)(Aurora-related kinase 1) (hARK1) (Breast tumor-amplified kinase).	0	0
+11	12	STMN2_90_102	AAGERRKSQEAQV	[97]	[]	Q93045	Stathmin-2 (Protein SCG10) (Superior cervical ganglion-10 protein).	0	0
+12	1	pTY3H_64_78	RFIGRRQ(pS)LIEDARK	[71]	[]	P07101	Tyrosine 3-monooxygenase (EC 1.14.16.2) (Tyrosine 3-hydroxylase) (TH).	0	0
+12	2	TAU_524_536	GSRSRTPSLPTPP	"[525, 527, 531]"	"[529, 534]"	P10636	Microtubule-associated protein tau (Neurofibrillary tangle protein)(Paired helical filament-tau) (PHF-tau).	0	0
+12	3	TLE2_246_258	EPPSPATTPCGKV	[249]	"[252, 253]"	Q04725	Transducin-like enhancer protein 2 (ESG2).	0	0
+12	4	CD27_212_224	HQRRKYRSNKGES	"[219, 224]"	[]	P26842	CD27 antigen precursor (CD27L receptor) (T-cell activation antigenCD27) (T14) (Tumor necrosis factor receptor superfamily member 7).	0	0
+12	5	TY3H_64_78	RFIGRRQSLIEDARK	[71]	[]	P07101	Tyrosine 3-monooxygenase (EC 1.14.16.2) (Tyrosine 3-hydroxylase) (TH).	0	0
+12	6	VASP_150_162	EHIERRVSNAGGP	[157]	[]	P50552	Vasodilator-stimulated phosphoprotein (VASP).	0	0
+12	7	VASP_232_244	GAKLRKVSKQEEA	[239]	[]	P50552	Vasodilator-stimulated phosphoprotein (VASP).	0	0
+12	8	VASP_271_283	LARRRKATQVGEK	[]	[278]	P50552	Vasodilator-stimulated phosphoprotein (VASP).	0	0
+12	9	VIGLN_289_301	EEKKKKTTTIAVE	[]	"[295, 296, 297]"	Q00341	Vigilin (High density lipoprotein-binding protein) (HDL-bindingprotein).	0	0
+12	10	VTNC_390_402	NQNSRRPSRATWL	"[393, 397]"	[400]	P04004	Vitronectin precursor (Serum-spreading factor) (S-protein) (V75)[Contains: Vitronectin V65 subunit; Vitronectin V10 subunit;Somatomedin-B].	0	0
+12	11	ZAP70_486_498	LGADDSYYTARSA	"[491, 497]"	[494]	P43403	Tyrosine-protein kinase ZAP-70 (EC 2.7.10.2) (70 kDa zeta-associatedprotein) (Syk-related tyrosine kinase).	0	0
+12	12	pVASP_150_164	EHIERRV(pS)NAGGPPA	[157]	[]	P50552	Vasodilator-stimulated phosphoprotein (VASP).	0	0
