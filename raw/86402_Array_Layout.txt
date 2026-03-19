@@ -140,31 +140,31 @@ Row	Col	ID	Sequence	Tyr	SpotConc	UniprotAccession	Description	Xoff	Yoff
 10	5	FGFR3_753_765	TVTSTDEYLDLSA	[760]	1000	P22607	Fibroblast growth factor receptor 3 precursor (EC 2.7.10.1) (FGFR-3)(CD333 antigen).	0	0
 10	6	P85A_600_612	NENTEDQYSLVED	[607]	1000	P27986	Phosphatidylinositol 3-kinase regulatory subunit alpha (PI3-kinase p85subunit alpha) (PtdIns-3-kinase p85-alpha) (PI3K).	0	0
 10	7	PDPK1_369_381	DEDCYGNYDNLLS	[373, 376]	1000	O15530	3-phosphoinositide-dependent protein kinase 1 (EC 2.7.11.1) (hPDK1).	0	0
-10	8	AKT1_170_182	KATGRYYAMKILK	[175, 176]	1000	P31749	RAC-alpha serine/threonine-protein kinase�(EC:2.7.11.1)(PKB, RAC)	0	0
-10	9	AKT1_309_321_C310S	FSGTPEYLAPEVL	[315]	1000	P31749	RAC-alpha serine/threonine-protein kinase�(EC:2.7.11.1)(PKB, RAC)	0	0
-10	10	AKT1_320_332	VLEDNDYGRAVDW	[326]	1000	P31749	RAC-alpha serine/threonine-protein kinase�(EC:2.7.11.1)(PKB, RAC)	0	0
-10	11	ARAF_297_307	RDSGYYWEVPP	[301, 302]	1000	P10398	Serine/threonine-protein kinase A-Raf�(EC:2.7.11.1),(ARAF1, PKS, PKS2)	0	0
+10	8	AKT1_170_182	KATGRYYAMKILK	[175, 176]	1000	P31749	RAC-alpha serine/threonine-protein kinaseÂ (EC:2.7.11.1)(PKB, RAC)	0	0
+10	9	AKT1_309_321_C310S	FSGTPEYLAPEVL	[315]	1000	P31749	RAC-alpha serine/threonine-protein kinaseÂ (EC:2.7.11.1)(PKB, RAC)	0	0
+10	10	AKT1_320_332	VLEDNDYGRAVDW	[326]	1000	P31749	RAC-alpha serine/threonine-protein kinaseÂ (EC:2.7.11.1)(PKB, RAC)	0	0
+10	11	ARAF_297_307	RDSGYYWEVPP	[301, 302]	1000	P10398	Serine/threonine-protein kinase A-RafÂ (EC:2.7.11.1),(ARAF1, PKS, PKS2)	0	0
 10	12	BTLA_252_262	KPGIVYASLNH	[257]	1000	Q7Z6A9	B- and T-lymphocyte attenuator,B- and T-lymphocyte-associated protein,CD272	0	0
-10	13	CD28_185_197	RLLHSDYMNMTPR	[191]	1000	�P10747	T-cell-specific surface glycoprotein CD28, TP44, CD28	0	0
-10	14	CD28_203_215	RKHYQPYAPPRDF	[206, 209]	1000	�P10747	T-cell-specific surface glycoprotein CD28, TP44, CD28	0	0
+10	13	CD28_185_197	RLLHSDYMNMTPR	[191]	1000	Â P10747	T-cell-specific surface glycoprotein CD28, TP44, CD28	0	0
+10	14	CD28_203_215	RKHYQPYAPPRDF	[206, 209]	1000	Â P10747	T-cell-specific surface glycoprotein CD28, TP44, CD28	0	0
 11	1	CD3E_182_194	PVPNPDYEPIRKG	[188]	1000	P07766	T-cell surface glycoprotein CD3 epsilon chain, T-cell surface antigen T3/Leu-4 epsilon chain, CD3e 	0	0
 11	2	CD3E_193_205	KGQRDLYSGLNQR	[199]	1000	P07766	T-cell surface glycoprotein CD3 epsilon chain, T-cell surface antigen T3/Leu-4 epsilon chain, CD3e 	0	0
 11	3	CD3Z_135_147	KGHDGLYQGLSTA	[142]  	1000	P20963	T-cell surface glycoprotein CD3 zeta chain precursor (T-cell receptorT3 zeta chain) (CD247 antigen).	0	0
 11	4	CD3Z_146_158	TATKDTYDALHMQ	[153]	1000	P20963	T-cell surface glycoprotein CD3 zeta chain precursor (T-cell receptorT3 zeta chain) (CD247 antigen).	0	0
 11	5	CD70_9_21_C17S	SVRRRPYGSVLRA	[15]	1000	P32970	CD70 antigen, CD27 ligand , Tumor necrosis factor ligand superfamily member 7	0	0
-11	6	CDK1_9_21	KIGEGTYGVVYKG	[15, 19]	1000	P06493	Cyclin-dependent kinase 1�(EC:2.7.11.22,�EC:2.7.11.23), Cell division protein kinase 1,  Cell division control protein 2 homolog,  (p34 protein kinase)(CDK1)	0	0
-11	7	CDK4_11_23	EIGVGAYGTVYKA	[17, 21]	1000	P11802	Cyclin-dependent kinase 4�(EC:2.7.11.22) ,Cell division protein kinase 4 (PSK-J3)	0	0
-11	8	ERBB3_1283_1295	PASEQGYEEMRAF	[1289]	1000	�P21860	Receptor tyrosine-protein kinase erbB-3 (EC:2.7.10.1), Proto-oncogene-like protein c-ErbB-3 , Tyrosine kinase-type cell surface receptor HER3	0	0
-11	9	FYN_525_537	TATEPQYQPGENL	[531]	1000	P06241	Tyrosine-protein kinase Fyn�(EC:2.7.10.2), Proto-oncogene Syn, Proto-oncogene c-Fyn, Src-like kinase	0	0
+11	6	CDK1_9_21	KIGEGTYGVVYKG	[15, 19]	1000	P06493	Cyclin-dependent kinase 1Â (EC:2.7.11.22,Â EC:2.7.11.23), Cell division protein kinase 1,  Cell division control protein 2 homolog,  (p34 protein kinase)(CDK1)	0	0
+11	7	CDK4_11_23	EIGVGAYGTVYKA	[17, 21]	1000	P11802	Cyclin-dependent kinase 4Â (EC:2.7.11.22) ,Cell division protein kinase 4 (PSK-J3)	0	0
+11	8	ERBB3_1283_1295	PASEQGYEEMRAF	[1289]	1000	Â P21860	Receptor tyrosine-protein kinase erbB-3 (EC:2.7.10.1), Proto-oncogene-like protein c-ErbB-3 , Tyrosine kinase-type cell surface receptor HER3	0	0
+11	9	FYN_525_537	TATEPQYQPGENL	[531]	1000	P06241	Tyrosine-protein kinase FynÂ (EC:2.7.10.2), Proto-oncogene Syn, Proto-oncogene c-Fyn, Src-like kinase	0	0
 11	10	GAB2_638_648	DEKVDYVQVDK	[643]	1000	Q9UQC2	GRB2-associated-binding protein 2, GRB2-associated binder 2, Growth factor receptor bound protein 2-associated protein 2	0	0
-11	11	GSK3B_210_222_C218S	GEPNVSYISSRYY	[216, 221, 222]	1000	P49841�	Glycogen synthase kinase-3 beta (EC:2.7.11.26), Serine/threonine-protein kinase GSK3B (EC:2.7.11.1)	0	0
-11	12	IRS2_626_638	HPYPEDYGDIEIG	[628, 632]	1000	Q9Y4H2�	Insulin receptor substrate 2	0	0
+11	11	GSK3B_210_222_C218S	GEPNVSYISSRYY	[216, 221, 222]	1000	P49841Â 	Glycogen synthase kinase-3 beta (EC:2.7.11.26), Serine/threonine-protein kinase GSK3B (EC:2.7.11.1)	0	0
+11	12	IRS2_626_638	HPYPEDYGDIEIG	[628, 632]	1000	Q9Y4H2Â 	Insulin receptor substrate 2	0	0
 11	13	JAK1_214_226	DISYKRYIPETLN	[217, 220]	1000	P23458	Tyrosine-protein kinase JAK1 (EC 2.7.10.2) (Janus kinase 1) (JAK-1).	0	0
 11	14	JAK2_1001_1013	LPQDKEYYKVKEP	[1007, 1008]	1000	O60674	Tyrosine-protein kinase JAK2 (EC 2.7.10.2) (Janus kinase 2) (JAK-2).	0	0
-12	1	JAK3_974_986	LPLDKDYYVVREP	[980, 981]	1000	P52333��	Tyrosine-protein kinase JAK3 (EC:2.7.10.2) (Janus kinase 3) (JAK-3).	0	0
-12	2	KIT_930_942_C942S	ESTNHIYSNLANS	[936]	1000	�P10721�	Mast/stem cell growth factor receptor Kit (EC:2.7.10.1), CD117	0	0
-12	3	LYN_391_403	VIEDNEYTAREGA	[397]	1000	P07948�	Tyrosine-protein kinase Lyn (EC:2.7.10.2)	0	0
-12	4	LYN_501_512	YTATEGQYQQQP	[501, 508]	1000	P07948�	Tyrosine-protein kinase Lyn (EC:2.7.10.2)	0	0
+12	1	JAK3_974_986	LPLDKDYYVVREP	[980, 981]	1000	P52333Â Â 	Tyrosine-protein kinase JAK3 (EC:2.7.10.2) (Janus kinase 3) (JAK-3).	0	0
+12	2	KIT_930_942_C942S	ESTNHIYSNLANS	[936]	1000	Â P10721Â 	Mast/stem cell growth factor receptor Kit (EC:2.7.10.1), CD117	0	0
+12	3	LYN_391_403	VIEDNEYTAREGA	[397]	1000	P07948Â 	Tyrosine-protein kinase Lyn (EC:2.7.10.2)	0	0
+12	4	LYN_501_512	YTATEGQYQQQP	[501, 508]	1000	P07948Â 	Tyrosine-protein kinase Lyn (EC:2.7.10.2)	0	0
 12	5	MAPK3_198_210_C203S	ALQTPSYTPYYVA	[204, 207, 208]	1000	Q16644	MAP kinase-activated protein kinase 3 (EC:2.7.11.1)	0	0
 12	6	MET_1228_1240	DMYDKEYYSVHNK	[1230, 1234, 1235]	1000	P08581	Hepatocyte growth factor receptor precursor (EC 2.7.10.1) (HGFreceptor) (Scatter factor receptor) (SF receptor) (HGF/SF receptor)(Met proto-oncogene tyrosine kinase) (c-Met).	0	0
 12	7	MET_1360_1370_C1361S	KSVAPYPSLLS	[1365]	1000	P08581	Hepatocyte growth factor receptor precursor (EC 2.7.10.1) (HGFreceptor) (Scatter factor receptor) (SF receptor) (HGF/SF receptor)(Met proto-oncogene tyrosine kinase) (c-Met).	0	0
@@ -183,9 +183,9 @@ Row	Col	ID	Sequence	Tyr	SpotConc	UniprotAccession	Description	Xoff	Yoff
 13	6	PTN6_558_570	KHKEDVYENLHTK	[564]	1000	P29350	Tyrosine-protein phosphatase non-receptor type 6 (EC:3.1.3.48)	0	0
 13	7	SHC1_309_321	ELRFKQYLRNPPK	[315]	1000	P29353	SHC-transforming protein 1	0	0
 13	8	SRC_524_536	TSTEPQYQPGENL	[530]	1000	P12931	Proto-oncogene tyrosine-protein kinase Src (EC:2.7.10.2) (Proto-oncogene c-Src)(pp60c-src)( p60-Src)	0	0
-13	9	STAT2_684_696	LQERRKYLKHRLI	[690]	1000	P52630�	Signal transducer and activator of transcription 2 (p113)	0	0
-13	10	TIE2_986_998	SRGQEVYVKKTMG	[992]	1000	�Q02763	Angiopoietin-1 receptor (EC:2.7.10.1)	0	0
-13	11	TYK2_1048_1060	VPEGHEYYRVRED	[1054, 1055]	1000	�P29597	Non-receptor tyrosine-protein kinase TYK2 (EC:2.7.10.2)	0	0
+13	9	STAT2_684_696	LQERRKYLKHRLI	[690]	1000	P52630Â 	Signal transducer and activator of transcription 2 (p113)	0	0
+13	10	TIE2_986_998	SRGQEVYVKKTMG	[992]	1000	Â Q02763	Angiopoietin-1 receptor (EC:2.7.10.1)	0	0
+13	11	TYK2_1048_1060	VPEGHEYYRVRED	[1054, 1055]	1000	Â P29597	Non-receptor tyrosine-protein kinase TYK2 (EC:2.7.10.2)	0	0
 13	12	VGFR1_1320_1332_C1320K/C1321K	KKSPPPDYNSVVL	[1327]	1000	P17948	Vascular endothelial growth factor receptor 1 precursor (EC 2.7.10.1)(VEGFR-1) (Vascular permeability factor receptor) (Tyrosine-proteinkinase receptor FLT) (Flt-1) (Tyrosine-protein kinase FRT) (Fms-liketyrosine kinase 1).	0	0
 13	13	VISTA_260_270	RHPLSYVAQRQ	[265]	1000	Q9H7M9	V-type immunoglobulin domain-containing suppressor of T-cell activation	0	0
 13	14	YES_420_432	LIEDNEYTARQGA	[426] 	1000	P07947	Tyrosine-protein kinase Yes (EC:2.7.10.2)(Proto-oncogene c-Yes)(p61-Yes)	0	0

@@ -1,4 +1,4 @@
-Row	Col	ID	Sequence	Tyr	SpotConcentration (µM)	UniprotAccession	Description	Xoff	Yoff
+Row	Col	ID	Sequence	Tyr	SpotConcentration (Ã‚uM)	UniprotAccession	Description	Xoff	Yoff
 -1	-1	#REF	NA	NA	NA	NA	NA	0	0
 -3	-1	#REF	NA	NA	NA	NA	NA	0	0
 -5	-1	#REF	NA	NA	NA	NA	NA	0	0
