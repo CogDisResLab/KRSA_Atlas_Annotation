@@ -175,5 +175,5 @@ processed_sequences <- layout_files |>
 
 # Process sequences
 final_processed_sequences <- processed_sequences |>
-    bind_rows() |>
+    bind_rows(.id = "ChipArticleID") |>
     write_csv(file.path("data", "input_sequence_data.csv.bz2"))
