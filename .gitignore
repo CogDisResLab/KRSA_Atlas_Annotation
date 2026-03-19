@@ -4,6 +4,7 @@
 .Ruserdata
 *.log
 x-*.R
+!data/*.bz2
 !results/*.gz
 .vscode/
 raw/all-array-layouts

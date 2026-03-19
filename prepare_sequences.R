@@ -161,12 +161,19 @@ prepare_peptide_sequences <- function(input_data, chip) {
 }
 
 # Load input data
-ptk_peptides <- read_tsv(file.path("raw", "86412_Array_Layout.txt")) |>
-    prepare_peptide_sequences(chip = "PTK")
-stk_peptides <- read_tsv(file.path("raw", "87102_Array_Layout.txt")) |>
-    prepare_peptide_sequences(chip = "STK")
+layout_files <- list.files("raw", "Layout.txt$") |>
+    set_names(~ str_c("ART", str_extract(.x, "^\\d{5}")))
+layout_chip_types <- if_else(str_detect(layout_files, "^86"), "PTK", "STK")
+
+processed_sequences <- layout_files |>
+    map(~ read_tsv(file.path("raw", .x))) |>
+    map2(
+        layout_chip_types,
+        ~ prepare_peptide_sequences(.x, .y)
+    )
+
 
 # Process sequences
-final_processed_sequences <- ptk_peptides |>
-    bind_rows(stk_peptides) |>
+final_processed_sequences <- processed_sequences |>
+    bind_rows() |>
     write_csv(file.path("data", "input_sequence_data.csv.bz2"))
