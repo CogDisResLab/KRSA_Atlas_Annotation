@@ -4,6 +4,7 @@
 .Ruserdata
 *.log
 x-*.R
+data/individual/**/*
 !data/*.bz2
 !results/*.gz
 .vscode/

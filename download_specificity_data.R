@@ -5,13 +5,14 @@ suppressPackageStartupMessages({
     library(httr2)
 })
 
-data <- read_csv(file.path("data", "input_sequence_data.csv"))
+data <- read_csv(file.path("data", "input_sequence_data.csv.bz2"))
 
-process_request <- function(id, peptide_id, sequence, chip) {
+process_request <- function(id, peptide_id, sequence, chip, chip_article_id) {
     output_file <- file.path(
         "data",
         "individual",
         chip,
+        chip_article_id,
         peptide_id,
         str_glue("{id}.csv")
     )
@@ -87,8 +88,8 @@ process_request <- function(id, peptide_id, sequence, chip) {
 }
 
 all_data <- data |>
-    select(ID, PeptideID, prepared_sequence, chip_type) |>
-    pmap(~ process_request(..1, ..2, ..3, ..4)) |>
+    select(ID, PeptideID, prepared_sequence, chip_type, ChipArticleID) |>
+    pmap(~ process_request(..1, ..2, ..3, ..4, ..5)) |>
     bind_rows() |>
     write_csv(file.path("results", "complete_kinase_specificity_map_raw.csv.gz")) |>
     select(
