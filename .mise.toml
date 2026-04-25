@@ -9,3 +9,6 @@ ANTHROPIC_BASE_URL = "http://localhost:11434"
 
 # Extend Ollama context window
 OLLAMA_CONTEXT_LENGTH = 64000
+
+[tools]
+python = "3.10"
