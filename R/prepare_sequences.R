@@ -81,37 +81,37 @@ mark_phosphosites <- function(seq, chip) {
 }
 
 # Generate a permutation of primed (prephosphorylated) residues
-mark_phosphoprimers <- function(seq) {
-    non_query_phosphosites <- str_locate_all(seq, "[STY](?!\\*)")[[1L]][, 1L]
-
-
-    if (length(non_query_phosphosites) == 1L) {
-        primer_combinations <- c(integer(0L), non_query_phosphosites)
-    } else {
-        primer_combinations <- map(
-            0L:length(non_query_phosphosites),
-            ~ combn(non_query_phosphosites, .x, simplify = FALSE)
-        ) |>
-            unlist(recursive = FALSE)
-    }
-
-    primer_variants <- map(
-        primer_combinations,
-        \(x) {
-            modified_sequence <- seq
-            for (loc in x) {
-                extracted <- str_sub(modified_sequence, loc, loc)
-                replacement <- str_to_lower(extracted)
-                modified_sequence <- stri_sub_replace(modified_sequence,
-                    replacement = replacement, from = loc, to = loc
-                )
-            }
-            modified_sequence
-        }
-    )
-
-    primer_variants
-}
+# mark_phosphoprimers <- function(seq) {
+#     non_query_phosphosites <- str_locate_all(seq, "[STY](?!\\*)")[[1L]][, 1L]
+#
+#
+#     if (length(non_query_phosphosites) == 1L) {
+#         primer_combinations <- c(integer(0L), non_query_phosphosites)
+#     } else {
+#         primer_combinations <- map(
+#             0L:length(non_query_phosphosites),
+#             ~ combn(non_query_phosphosites, .x, simplify = FALSE)
+#         ) |>
+#             unlist(recursive = FALSE)
+#     }
+#
+#     primer_variants <- map(
+#         primer_combinations,
+#         \(x) {
+#             modified_sequence <- seq
+#             for (loc in x) {
+#                 extracted <- str_sub(modified_sequence, loc, loc)
+#                 replacement <- str_to_lower(extracted)
+#                 modified_sequence <- stri_sub_replace(modified_sequence,
+#                     replacement = replacement, from = loc, to = loc
+#                 )
+#             }
+#             modified_sequence
+#         }
+#     )
+#
+#     primer_variants
+# }
 
 # Main processing function
 prepare_peptide_sequences <- function(input_data, chip) {
@@ -134,29 +134,30 @@ prepare_peptide_sequences <- function(input_data, chip) {
             phosphosite_variants = map(expanded_sequences, ~ mark_phosphosites(.x, chip))
         ) |>
         unnest(phosphosite_variants) |>
-        mutate(phosphoprime_variants = map(phosphosite_variants, mark_phosphoprimers)) |>
-        unnest(phosphoprime_variants) |>
-        unnest(phosphoprime_variants) |>
+        # mutate(phosphoprime_variants = map(phosphosite_variants, mark_phosphoprimers)) |>
+        # unnest(phosphoprime_variants) |>
+        # unnest(phosphoprime_variants) |>
         mutate(
-            ambiguous_aa = encode_aa_disambiguation(phosphoprime_variants),
-            phosphosite_location = encode_phosphosite_location(phosphoprime_variants),
-            phosphoprime_location = str_c("0b", encode_phosphoprimer_location(phosphoprime_variants)),
+            ambiguous_aa = encode_aa_disambiguation(phosphosite_variants),
+            phosphosite_location = encode_phosphosite_location(phosphosite_variants),
+            # phosphoprime_location = str_c("0b", encode_phosphoprimer_location(phosphoprime_variants)),
             Old_ID = ID,
-            ID = str_c(Old_ID, phosphosite_location, phosphoprime_location, ambiguous_aa, sep = "_")
+            # ID = str_c(Old_ID, phosphosite_location, phosphoprime_location, ambiguous_aa, sep = "_")
+            ID = str_c(Old_ID, phosphosite_location, ambiguous_aa, sep = "_")
         ) |>
         select(
             ID,
             PeptideID = Old_ID,
             source_sequence = Sequence,
-            prepared_sequence = phosphoprime_variants,
+            # prepared_sequence = phosphoprime_variants,
+            prepared_sequence = phosphosite_variants,
             phosphosite = phosphosite_location,
-            priming_status = phosphoprime_location,
+            # priming_status = phosphoprime_location,
             disambiguation = ambiguous_aa
         )
 
     # Return processed data for further inspection if needed
     processed_data |>
-        unique() |>
         mutate(chip_type = chip)
 }
 
